@@ -1,0 +1,160 @@
+23-06-20 11:34:58 ** --- MESSAGE BEGIN ---
+23-06-20 11:34:58 ** To: info@panartglobal.com
+23-06-20 11:34:58 ** Subject: Email from Contact form
+23-06-20 11:34:58 ** 
+23-06-20 11:34:58 ** Amit Kumar updel.ak@gmail.com wrote the following:
+23-06-20 11:34:58 ** 
+23-06-20 11:34:58 ** hi
+23-06-20 11:34:58 ** --- MESSAGE END ---
+23-06-20 11:35:00 ** Connecting to smtp.gmail.com:465
+23-06-20 11:35:00 ** Connected.
+23-06-20 11:35:00 << 220 smtp.gmail.com ESMTP v16-20020a62a510000000b0064d2ad04cbesm547363pfm.209 - gsmtp<EOL>
+23-06-20 11:35:00 >> EHLO AMIT-KUMAR<EOL>
+23-06-20 11:35:00 << 250-smtp.gmail.com at your service, [115.246.120.148]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+23-06-20 11:35:00 ** Authenticating as panartindia@gmail.com
+23-06-20 11:35:00 >> AUTH LOGIN<EOL>
+23-06-20 11:35:01 << 334 VXNlcm5hbWU6<EOL>
+23-06-20 11:35:01 >> cGFuYXJ0aW5kaWFAZ21haWwuY29t<EOL>
+23-06-20 11:35:01 << 334 UGFzc3dvcmQ6<EOL>
+23-06-20 11:35:01 >> cW9iYmRkZW9kZ3ppdXFuag==<EOL>
+23-06-20 11:35:01 << 235 2.7.0 Accepted<EOL>
+23-06-20 11:35:01 >> MAIL FROM: <panartindia@gmail.com><EOL>
+23-06-20 11:35:02 << 250 2.1.0 OK v16-20020a62a510000000b0064d2ad04cbesm547363pfm.209 - gsmtp<EOL>
+23-06-20 11:35:02 >> RCPT TO: <info@panartglobal.com><EOL>
+23-06-20 11:35:02 << 250 2.1.5 OK v16-20020a62a510000000b0064d2ad04cbesm547363pfm.209 - gsmtp<EOL>
+23-06-20 11:35:02 >> DATA<EOL>
+23-06-20 11:35:02 << 354  Go ahead v16-20020a62a510000000b0064d2ad04cbesm547363pfm.209 - gsmtp<EOL>
+23-06-20 11:35:02 >> Date: Tue, 20 Jun 2023 11:35:02 +0530<EOL>
+23-06-20 11:35:02 >> To: info@panartglobal.com<EOL>
+23-06-20 11:35:02 >> Subject: Email from Contact form<EOL>
+23-06-20 11:35:02 >> <EOL>
+23-06-20 11:35:02 >> Amit Kumar updel.ak@gmail.com wrote the following:<EOL>
+23-06-20 11:35:02 >> <EOL>
+23-06-20 11:35:02 >> hi<EOL>
+23-06-20 11:35:02 >> .<EOL>
+23-06-20 11:35:03 << 250 2.0.0 OK  1687241103 v16-20020a62a510000000b0064d2ad04cbesm547363pfm.209 - gsmtp<EOL>
+23-06-20 11:35:03 >> QUIT<EOL>
+23-06-20 11:35:03 << 221 2.0.0 closing connection v16-20020a62a510000000b0064d2ad04cbesm547363pfm.209 - gsmtp<EOL>
+23-06-20 11:35:03 ** Disconnecting from smtp.gmail.com:465
+23-06-20 11:35:03 ** Disconnected.
+23-06-20 11:35:03 ** Disconnected.
+23-06-20 11:40:00 ** --- MESSAGE BEGIN ---
+23-06-20 11:40:00 ** To: info@indeutsch.org
+23-06-20 11:40:00 ** Subject: Email from Contact form
+23-06-20 11:40:00 ** 
+23-06-20 11:40:00 ** Amit Kumar updel.ak@gmail.com wrote the following:
+23-06-20 11:40:00 ** 
+23-06-20 11:40:00 ** Hi how are you
+23-06-20 11:40:00 ** --- MESSAGE END ---
+23-06-20 11:40:01 ** Connecting to smtp.gmail.com:465
+23-06-20 11:40:02 ** Connected.
+23-06-20 11:40:02 << 220 smtp.gmail.com ESMTP n13-20020a170902d2cd00b001ac2be26340sm745842plc.222 - gsmtp<EOL>
+23-06-20 11:40:02 >> EHLO AMIT-KUMAR<EOL>
+23-06-20 11:40:02 << 250-smtp.gmail.com at your service, [115.246.120.148]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+23-06-20 11:40:02 ** Authenticating as panartindia@gmail.com
+23-06-20 11:40:02 >> AUTH LOGIN<EOL>
+23-06-20 11:40:03 << 334 VXNlcm5hbWU6<EOL>
+23-06-20 11:40:03 >> cGFuYXJ0aW5kaWFAZ21haWwuY29t<EOL>
+23-06-20 11:40:03 << 334 UGFzc3dvcmQ6<EOL>
+23-06-20 11:40:03 >> cW9iYmRkZW9kZ3ppdXFuag==<EOL>
+23-06-20 11:40:03 << 235 2.7.0 Accepted<EOL>
+23-06-20 11:40:03 >> MAIL FROM: <panartindia@gmail.com><EOL>
+23-06-20 11:40:03 << 250 2.1.0 OK n13-20020a170902d2cd00b001ac2be26340sm745842plc.222 - gsmtp<EOL>
+23-06-20 11:40:03 >> RCPT TO: <info@indeutsch.org><EOL>
+23-06-20 11:40:04 << 250 2.1.5 OK n13-20020a170902d2cd00b001ac2be26340sm745842plc.222 - gsmtp<EOL>
+23-06-20 11:40:04 >> DATA<EOL>
+23-06-20 11:40:04 << 354  Go ahead n13-20020a170902d2cd00b001ac2be26340sm745842plc.222 - gsmtp<EOL>
+23-06-20 11:40:04 >> Date: Tue, 20 Jun 2023 11:40:04 +0530<EOL>
+23-06-20 11:40:04 >> To: info@indeutsch.org<EOL>
+23-06-20 11:40:04 >> Subject: Email from Contact form<EOL>
+23-06-20 11:40:04 >> <EOL>
+23-06-20 11:40:04 >> Amit Kumar updel.ak@gmail.com wrote the following:<EOL>
+23-06-20 11:40:04 >> <EOL>
+23-06-20 11:40:04 >> Hi how are you<EOL>
+23-06-20 11:40:04 >> .<EOL>
+23-06-20 11:40:05 << 250 2.0.0 OK  1687241405 n13-20020a170902d2cd00b001ac2be26340sm745842plc.222 - gsmtp<EOL>
+23-06-20 11:40:05 >> QUIT<EOL>
+23-06-20 11:40:05 << 221 2.0.0 closing connection n13-20020a170902d2cd00b001ac2be26340sm745842plc.222 - gsmtp<EOL>
+23-06-20 11:40:05 ** Disconnecting from smtp.gmail.com:465
+23-06-20 11:40:05 ** Disconnected.
+23-06-20 11:40:05 ** Disconnected.
+23-06-20 11:47:49 ** --- MESSAGE BEGIN ---
+23-06-20 11:47:49 ** To: info@panartglobal.com
+23-06-20 11:47:49 ** Subject: Email from Contact form
+23-06-20 11:47:49 ** 
+23-06-20 11:47:49 ** Amit Kumar updel.ak@gmail.com wrote the following:
+23-06-20 11:47:49 ** 
+23-06-20 11:47:49 ** hi
+23-06-20 11:47:49 ** --- MESSAGE END ---
+23-06-20 11:47:50 ** Connecting to smtp.gmail.com:465
+23-06-20 11:47:51 ** Connected.
+23-06-20 11:47:51 << 220 smtp.gmail.com ESMTP n18-20020a170902969200b001b3a21fbb4fsm812210plp.12 - gsmtp<EOL>
+23-06-20 11:47:51 >> EHLO AMIT-KUMAR<EOL>
+23-06-20 11:47:51 << 250-smtp.gmail.com at your service, [115.246.120.148]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+23-06-20 11:47:51 ** Authenticating as panartindia@gmail.com
+23-06-20 11:47:51 >> AUTH LOGIN<EOL>
+23-06-20 11:47:51 << 334 VXNlcm5hbWU6<EOL>
+23-06-20 11:47:51 >> cGFuYXJ0aW5kaWFAZ21haWwuY29t<EOL>
+23-06-20 11:47:51 << 334 UGFzc3dvcmQ6<EOL>
+23-06-20 11:47:51 >> cW9iYmRkZW9kZ3ppdXFuag==<EOL>
+23-06-20 11:47:52 << 235 2.7.0 Accepted<EOL>
+23-06-20 11:47:52 >> MAIL FROM: <panartindia@gmail.com><EOL>
+23-06-20 11:47:52 << 250 2.1.0 OK n18-20020a170902969200b001b3a21fbb4fsm812210plp.12 - gsmtp<EOL>
+23-06-20 11:47:52 >> RCPT TO: <info@panartglobal.com><EOL>
+23-06-20 11:47:52 << 250 2.1.5 OK n18-20020a170902969200b001b3a21fbb4fsm812210plp.12 - gsmtp<EOL>
+23-06-20 11:47:52 >> DATA<EOL>
+23-06-20 11:47:53 << 354  Go ahead n18-20020a170902969200b001b3a21fbb4fsm812210plp.12 - gsmtp<EOL>
+23-06-20 11:47:53 >> Date: Tue, 20 Jun 2023 11:47:53 +0530<EOL>
+23-06-20 11:47:53 >> To: info@panartglobal.com<EOL>
+23-06-20 11:47:53 >> Subject: Email from Contact form<EOL>
+23-06-20 11:47:53 >> <EOL>
+23-06-20 11:47:53 >> Amit Kumar updel.ak@gmail.com wrote the following:<EOL>
+23-06-20 11:47:53 >> <EOL>
+23-06-20 11:47:53 >> hi<EOL>
+23-06-20 11:47:53 >> .<EOL>
+23-06-20 11:47:53 << 250 2.0.0 OK  1687241873 n18-20020a170902969200b001b3a21fbb4fsm812210plp.12 - gsmtp<EOL>
+23-06-20 11:47:53 >> QUIT<EOL>
+23-06-20 11:47:54 << 221 2.0.0 closing connection n18-20020a170902969200b001b3a21fbb4fsm812210plp.12 - gsmtp<EOL>
+23-06-20 11:47:54 ** Disconnected.
+23-06-20 11:47:54 ** Disconnected.
+23-06-20 11:47:54 ** Disconnected.
+23-06-20 11:52:46 ** --- MESSAGE BEGIN ---
+23-06-20 11:52:46 ** To: info@panartglobal.com
+23-06-20 11:52:46 ** Subject: Email from Contact form
+23-06-20 11:52:46 ** 
+23-06-20 11:52:46 ** Amit Kumar updel.ak@gmail.com wrote the following:
+23-06-20 11:52:46 ** 
+23-06-20 11:52:46 ** hi  
+23-06-20 11:52:46 ** --- MESSAGE END ---
+23-06-20 11:52:47 ** Connecting to smtp.gmail.com:465
+23-06-20 11:52:47 ** Connected.
+23-06-20 11:52:47 << 220 smtp.gmail.com ESMTP r10-20020a638f4a000000b005439aaf0301sm666250pgn.64 - gsmtp<EOL>
+23-06-20 11:52:47 >> EHLO AMIT-KUMAR<EOL>
+23-06-20 11:52:48 << 250-smtp.gmail.com at your service, [115.246.120.148]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+23-06-20 11:52:48 ** Authenticating as panartindia@gmail.com
+23-06-20 11:52:48 >> AUTH LOGIN<EOL>
+23-06-20 11:52:48 << 334 VXNlcm5hbWU6<EOL>
+23-06-20 11:52:48 >> cGFuYXJ0aW5kaWFAZ21haWwuY29t<EOL>
+23-06-20 11:52:48 << 334 UGFzc3dvcmQ6<EOL>
+23-06-20 11:52:48 >> cW9iYmRkZW9kZ3ppdXFuag==<EOL>
+23-06-20 11:52:50 << 235 2.7.0 Accepted<EOL>
+23-06-20 11:52:50 >> MAIL FROM: <panartindia@gmail.com><EOL>
+23-06-20 11:52:50 << 250 2.1.0 OK r10-20020a638f4a000000b005439aaf0301sm666250pgn.64 - gsmtp<EOL>
+23-06-20 11:52:50 >> RCPT TO: <info@panartglobal.com><EOL>
+23-06-20 11:52:50 << 250 2.1.5 OK r10-20020a638f4a000000b005439aaf0301sm666250pgn.64 - gsmtp<EOL>
+23-06-20 11:52:50 >> DATA<EOL>
+23-06-20 11:52:54 << 354  Go ahead r10-20020a638f4a000000b005439aaf0301sm666250pgn.64 - gsmtp<EOL>
+23-06-20 11:52:54 >> Date: Tue, 20 Jun 2023 11:52:54 +0530<EOL>
+23-06-20 11:52:54 >> To: info@panartglobal.com<EOL>
+23-06-20 11:52:54 >> Subject: Email from Contact form<EOL>
+23-06-20 11:52:54 >> <EOL>
+23-06-20 11:52:54 >> Amit Kumar updel.ak@gmail.com wrote the following:<EOL>
+23-06-20 11:52:54 >> <EOL>
+23-06-20 11:52:54 >> hi  <EOL>
+23-06-20 11:52:54 >> .<EOL>
+23-06-20 11:52:55 << 250 2.0.0 OK  1687242176 r10-20020a638f4a000000b005439aaf0301sm666250pgn.64 - gsmtp<EOL>
+23-06-20 11:52:55 >> QUIT<EOL>
+23-06-20 11:52:56 << 221 2.0.0 closing connection r10-20020a638f4a000000b005439aaf0301sm666250pgn.64 - gsmtp<EOL>
+23-06-20 11:52:56 ** Disconnecting from smtp.gmail.com:465
+23-06-20 11:52:56 ** Disconnected.
+23-06-20 11:52:56 ** Disconnected.
